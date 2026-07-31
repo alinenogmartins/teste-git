@@ -9,4 +9,5 @@ de semana).
 6- Não criarás nomes sem sentido (Evite variáveis confusas como x ou foo).
 7- Não farás soluções complexas para problemas simples — (Mantenha o design enxuto).
 8- Não deixarás bugs sem corrigir ( Resolva falhas antes que elas cresçam).
-9- 
+9- Não cobiçarás o algoritmo do colega (Estude e aprenda em vez de apenas copiar).
+10- Não te apegarás ao código (Aceite refatorações e feedbacks sem ego). 
