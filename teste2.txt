@@ -1,0 +1,12 @@
+# Os 10 Mandamentos do Desenvolvedor de Software 🖥️🔨
+
+1. **Não codificarás antes do café** - Pois sem ele, o código não terá luz.
+2. **Honrarás o pseudocódigo e os diagramas** - Eles são o mapa do tesouro para o ouro bug-free.
+3. **Não tomarás o nome do Git em vão** - Pois ele é o guardião do rollback sagrado.
+4. **Lembrar-te-ás de fechar as tags e salvar os arquivos** - Para que teus dias sejam longos e sem erros fatais.
+5. **Não matarás a paciência com reuniões desnecessárias** - Pois o tempo é o ativo mais valioso do código.
+6. **Não adulterarás o código alheio sem permissão** - Respeitarás o autor original, mesmo que o código seja ancestral.
+7. **Não furtarás idéias, mas inspirar-te-ás nelas** - Afinal, a criatividade é reciclar o que já existe com genialidade.
+8. **Não levantarás falso testemunho contra teu próprio código** - Seja honesto, se ele tem bugs, assuma-os.
+9. **Não cobiçarás frameworks alheios** - Aprenderás a amar as ferramentas que tens à mão.
+10. **Não codificarás em vão** - Cada linha deve ter um propósito, mesmo que seja apenas para te fazer sorrir.
