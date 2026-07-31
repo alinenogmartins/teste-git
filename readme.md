@@ -1,13 +1,16 @@
-## ✒️  Os dez mandamentos do programador
+# ✒️  Os dez mandamentos do programador
+<div>
 
-1- Não lançarás em produção na sexta-feira (Evite problemas críticos no fim
+*  Não lançarás em produção na sexta-feira (Evite problemas críticos no fim
 de semana).
-2- Honrarás as boas práticas de código (Escreva códigos limpos e legíveis).
-3- Santificarás o README (Documente seus projetos de forma clara).
-4- Não darás commit sem mensagem significativa (Explique suas alterações no controle de versão).
-5- Não codarás sem antes testar (Garanta que o sistema funcione como esperado).
-6- Não criarás nomes sem sentido (Evite variáveis confusas como x ou foo).
-7- Não farás soluções complexas para problemas simples — (Mantenha o design enxuto).
-8- Não deixarás bugs sem corrigir ( Resolva falhas antes que elas cresçam).
-9- Não cobiçarás o algoritmo do colega (Estude e aprenda em vez de apenas copiar).
-10- Não te apegarás ao código (Aceite refatorações e feedbacks sem ego). 
+*  Honrarás as boas práticas de código (Escreva códigos limpos e legíveis).
+* Santificarás o README (Documente seus projetos de forma clara).
+* Não darás commit sem mensagem significativa (Explique suas alterações no controle de versão).
+* Não codarás sem antes testar (Garanta que o sistema funcione como esperado).
+* Não criarás nomes sem sentido (Evite variáveis confusas como x ou foo).
+* Não farás soluções complexas para problemas simples — (Mantenha o design enxuto).
+* Não deixarás bugs sem corrigir ( Resolva falhas antes que elas cresçam).
+* Não cobiçarás o algoritmo do colega (Estude e aprenda em vez de apenas copiar).
+* Não te apegarás ao código (Aceite refatorações e feedbacks sem ego). 
+
+</div>
